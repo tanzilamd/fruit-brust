@@ -5,3 +5,9 @@
 .fa-brands, .fab {
     font-family: "Font Awesome 6 Brands" !important;
 }
+.fa-classic, .fa-regular, .fa-solid, .far, .fas {
+    font-family: "Font Awesome 6 Free" !important;
+}
+.margin-right-auto {
+    margin-left: auto !important;
+}
